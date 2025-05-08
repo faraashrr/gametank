@@ -1,0 +1,4 @@
+20:03:01,425 root INFO Running Battle Tanks
+20:03:01,473 BattleTanks DEBUG INIT HANDLE_MENU Thread-2 (_handle_menu)
+20:03:01,473 BattleTanks WARNING WAITING CONEXIONS --- Thread-1 (_conexions)
+20:03:01,473 BattleTanks DEBUG START THREAD: ---[MainThread]
